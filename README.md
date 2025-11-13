@@ -1,4 +1,4 @@
-# Stormwater Intelligence – Environmental Dataset Collection
+# Stormwater Intelligence – Environmental Collections
 
 This repository hosts curated outputs from the **Stormwater Intelligence Program**, focusing on real stormwater, rainfall, and runoff data from Southern California sites.  
 Each dataset supports research, compliance automation, and environmental forecasting.
